@@ -34,16 +34,16 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/Harshita-Naik16/Frontend-Mentor---E-commerce-product-page-solution)
+- Live Site URL: (https://frontend-mentor-e-commerce-product-page-solution.vercel.app/)
 
 ## My process
 
 - I pondered over what technologies to use for this as this could be made using vanilla.
 - But then I made it in a way we could actually scale it to become a full website.
-- Went over tailwind installation and set up all the colors in the tailwind config file.
-- The whole setUp is what consumes a lot of my time because I cannot work without planning out everything.
-- Built the website in desktop size later worked on responsiveness.
+- Went over the tailwind installation and set up all the colors in the tailwind config file.
+- The whole setup is what consumes a lot of my time because I cannot work without planning out everything.
+- Built the website in desktop size and later worked on responsiveness.
 
 ### Built with
 
