@@ -9,7 +9,7 @@ const ProductDetails = () => {
       <h2 className="text-orange-accent font-bold uppercase tracking-widest text-base">
         Sneaker Company
       </h2>
-      <h1 className="font-bold text-very-dark-blue text-3xl lg:text-6xl my-4 leading-[1.2]">
+      <h1 className="font-bold text-very-dark-blue text-3xl lg:text-5xl my-4  tracking-wide">
         Fall Limited Edition Sneakers
       </h1>
       <p className="text-dark-grayish-blue my-8 w-[100%] lg:w-[90%] leading-[1.6]">

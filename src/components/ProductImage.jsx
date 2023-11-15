@@ -19,7 +19,9 @@ const ProductImage = () => {
 
   return (
     <div
-      className={`flex-1 flex flex-col items-center ${isModal && "w-[500px]"}`}
+      className={`flex-1 flex flex-col justify-center items-center ${
+        isModal && "w-[500px]"
+      }`}
     >
       {/* Main image */}
       <ProductMainImage

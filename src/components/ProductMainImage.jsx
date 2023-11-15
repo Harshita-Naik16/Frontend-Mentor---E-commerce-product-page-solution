@@ -23,7 +23,7 @@ const ProductMainImage = ({
     setCurrent((prev) => prev - 1);
   };
   return (
-    <div className="w-[100%] relative">
+    <div className="w-[80%] relative">
       <img
         src={images[current].img}
         alt="product image"
